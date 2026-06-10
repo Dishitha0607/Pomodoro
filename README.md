@@ -89,7 +89,7 @@ Pie Time was designed to make productivity feel warm, cozy, and rewarding. The b
 
 ## 📸 Screenshot
 
-https://github.com/Dishitha0607/Pomodoro/blob/25356ec007f516a3e934aa2311e87307edd5c82e/public/banner.png
+[!Preview](https://github.com/Dishitha0607/Pomodoro/blob/25356ec007f516a3e934aa2311e87307edd5c82e/public/banner.png)
 ---
 
 ## 💛 Acknowledgements
