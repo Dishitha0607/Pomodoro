@@ -29,7 +29,7 @@ src/
 │   ├── Controls.jsx
 │   ├── ModeToggle.jsx
 │   ├── TimerCard.jsx
-|   └── Time.jsx
+│   └── Time.jsx
 │
 ├── App.jsx
 ├── index.css
@@ -48,7 +48,7 @@ public/
 Clone the repository:
 
 ```bash
-git clone <https://github.com/Dishitha0607/Pomodoro>
+git clone https://github.com/Dishitha0607/Pomodoro
 ```
 
 Navigate into the project directory:
@@ -89,7 +89,9 @@ Pie Time was designed to make productivity feel warm, cozy, and rewarding. The b
 
 ## 📸 Screenshot
 
-![https://github.com/Dishitha0607/Pomodoro/blob/25356ec007f516a3e934aa2311e87307edd5c82e/public/banner.png]
+https://github.com/Dishitha0607/Pomodoro/blob/25356ec007f516a3e934aa2311e87307edd5c82e/public/banner.png
+---
+
 ## 💛 Acknowledgements
 
 Thanks to coffee, cozy aesthetics, and the Pomodoro Technique for making focus a little sweeter.
